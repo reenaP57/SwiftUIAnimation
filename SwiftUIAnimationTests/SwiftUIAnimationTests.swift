@@ -2,7 +2,7 @@
 //  SwiftUIAnimationTests.swift
 //  SwiftUIAnimationTests
 //
-//  Created by Reenaben Prajapati on 28/03/25.
+//  Created by Reena Prajapati on 28/03/25.
 //
 
 import Testing
